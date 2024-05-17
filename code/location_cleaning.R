@@ -25,10 +25,16 @@ raw_locations <- read_sheet("https://docs.google.com/spreadsheets/d/1Gaj0-5pk5Q5
 # find and replace character strings
 locations <- raw_locations %>%
     rename("State" = "State / Region",
-           "ARCTIC" = "Search by") %>%
+           "ARCTIC" = "Search by",
+           "Partners" = "Partner orgs",
+           "Utility" = "Energy Utility"
+           ) %>%
     select(c(`ARCTIC`,
              `Name`, 
-             `State`)) %>%
+             `State`,
+             `Partners`,
+             `Utility`
+             )) %>%
     mutate(`State` = 
              str_replace_all(`State`,
                              # old_string = new_string
@@ -73,7 +79,7 @@ raw_coordinates <- left_join(locations, communities, join_by("Name"))
 coordinates <- raw_coordinates %>%
   
 # manual deletions (Where is the TOWN "Alaska"? Not the geographic center. Confusing. Delete for now.)
-  filter(Name != "Alaska") %>%
+filter(Name != "Alaska") %>%
   
 # manual additions
 mutate(Latitude = if_else(Name == "Bodega Bay", 38.33487, Latitude),

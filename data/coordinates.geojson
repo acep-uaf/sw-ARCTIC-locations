@@ -13,7 +13,9 @@
       "properties": {
         "ARCTIC": "ARCTIC2",
         "Name": "Anchorage",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Alaska Energy Authority (AEA),Alaska Fellows Program (AFP),Alaska Native Tribal Health Consortium (ANTHC),Chugach Electric Association (CEA),UAA Institute for Social and Economic Research (ISER),Launch Alaska,UAA Business Enterprise Institute (BEI),UAA Center for Economic Development (CED),Kartorium / Karta Solutions,Susitna River Coalition,Solarize Anchorage,UAA College of Engineering,Axiom Data Science,Alpine Fit,60 Hertz Energy,UAA Community & Technical College (CTC),Alaska Angel Conference,gBETA,Launch Company,Denali Commission,Deerstone Consulting,BabyVend,Alaska Housing Finance Corporation (AHFC ),Alaska Journal of Commerce,Alaska Department of Conservation (AK DEC),Renewable Energy Alaska Project (REAP),Renewable IPP (RIPP),TechStars Alaska Startup Week,Elevated Oats,Captain Consulting,Alaska Tuft,Turnagain Ceramics,Amferra Alaskan Jewelry,Get-By,K3tog Hand-Dyed Yarns,Dezi's Delight,University of Alaska Anchorage (UAA),Air Hounds,Alaska Village Electric Cooperative (AVEC),Alaska Electric Vehicle Association,Alaska EV Working Group,Alaska Heat Smart,Analysis North,AK Seeds of Change,Anchorage Solid Waste Services,Umoja Co-working",
+        "Utility": "UAA Institute for Social and Economic Research (ISER),Kartorium / Karta Solutions,Launch Alaska,Solarize Anchorage,UAA Business Enterprise Institute (BEI),UAA Center for Economic Development (CED),UAA College of Engineering,University of Alaska Anchorage (UAA)"
       }
     },
     {
@@ -28,7 +30,9 @@
       "properties": {
         "ARCTIC": "ARCTIC2",
         "Name": "Bodega Bay",
-        "State": "California"
+        "State": "California",
+        "Partners": "Alaska Microgrid Group (AMG)",
+        "Utility": "NA"
       }
     },
     {
@@ -43,7 +47,9 @@
       "properties": {
         "ARCTIC": "ARCTIC2",
         "Name": "Cordova",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Cordova Electric Corporation (CEC),60 North Seafoods,Prince William Sound Economic Development District (PWSEDD),Cordova Arts and Pageants,Net Loft,Copper River Watershed Project,Native Village of Eyak (NVE),Safety Cove Shellfish,City of Cordova (COC),Cordova Jr./Sr. High School,Drifters Fish,Camtu's Alaska Wild Seafoods,Trident Seafoods,Native Conservancy,Prince William Sound College,Royal Ocean Kelp Company,Chugach Regional Resources Commission (CRRC),Simpson Bay Oyster Company,Orca Adventure Lodge,Cordova District Fishermen United,Cordova City School District (CSD),Cordova Telephone Cooperative,Prince William Sound Aquaculture Corporation,Hartney Bay Kelp Company,Copper River & Prince William Sound Marketing Association,OBI Seafoods,Mt. Eccles Elementary School,Prince William Sound Science Center (PWSSC),Cordova Chamber of Commerce (CCOC),Noble Ocean Farms,Alaska Marine Response",
+        "Utility": "Noble Ocean Farms"
       }
     },
     {
@@ -58,7 +64,9 @@
       "properties": {
         "ARCTIC": "ARCTIC2",
         "Name": "Dillingham",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "UAF Bristol Bay Campus",
+        "Utility": "NA"
       }
     },
     {
@@ -73,7 +81,9 @@
       "properties": {
         "ARCTIC": "ARCTIC2",
         "Name": "Fairbanks",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "UAF ACEP,UAF Center ICE,UAF Cold Climate Housing Research Center (CCHRC),Fairbanks North Star Borough (FNSB),Golden Valley Energy Authority (GVEA),UAF eCampus,University of Alaska Fairbanks (UAF),Solarize Fairbanks,Fairbanks Memorial Hospital,Alaska Blue Economy Center (ABEC),KUAC Fairbanks,UAF Office of Intellectual Property and Commercialization (OIPC),US Fort Wainwright,Fairbanks Climate Action Coalition,CRREL Permafrost Tunnel,Gaalee'ya Spirit Camp (Howard Luke Fish Camp),Hibernia Heating,UAF Geophysical Institute (GI),Ermine Skate,Tanana Chiefs Conference (TCC),Telesomm,Roaming Root Cellar,UAF International Arctic Research Center (IARC),AK NSF EPSCoR,TechStars Startup Weekend,UAF College of Fisheries and Ocean Sciences (CFOS),UAF Institute of Northern Engineering (INE),UAF Nanook Innovation Corporation,UAF Makerspace,Barati Medical",
+        "Utility": "Solarize Fairbanks,UAF eCampus,University of Alaska Fairbanks (UAF),UAF Center ICE,UAF Office of Intellectual Property and Commercialization (OIPC),UAF ACEP,Fairbanks Memorial Hospital,Fairbanks North Star Borough (FNSB),Golden Valley Energy Authority (GVEA),UAF Cold Climate Housing Research Center (CCHRC),Hibernia Heating"
       }
     },
     {
@@ -88,7 +98,9 @@
       "properties": {
         "ARCTIC": "ARCTIC2",
         "Name": "Galena",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Sustainable Energy for Galena Alaska (SEGA)",
+        "Utility": "Sustainable Energy for Galena Alaska (SEGA)"
       }
     },
     {
@@ -103,7 +115,9 @@
       "properties": {
         "ARCTIC": "ARCTIC2",
         "Name": "Kotzebue",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "City of Kotzebue,Kotzebue Energy Authority (KEA),Kotzebue Boys and Girls Club,Kotzebue IRA,Kotzebue Middle and High School (KMHS),Alaska Technical Center (ATC),Arctic Backcountry,Golden Eagle,NANA Regional Corporation,Native Village of Kotzebue,Northwest Arctic Borough (NWAB),Northwest Arctic Borough School District (NWABSD),Star of the Northwest Magnet School,UAF Chukchi Campus,ReadyStar summer program,Kikiktagruk Inupiat Corporation (KIC),Aqqalak Trust,Northwest Arctic Borough (NWAB) Energy Steering Committee,Manilaq",
+        "Utility": "Kotzebue Energy Authority (KEA),Kotzebue Boys and Girls Club,Kotzebue IRA,Kotzebue Middle and High School (KMHS),NANA Regional Corporation"
       }
     },
     {
@@ -118,7 +132,9 @@
       "properties": {
         "ARCTIC": "ARCTIC2",
         "Name": "Minto",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "NA",
+        "Utility": "NA"
       }
     },
     {
@@ -133,7 +149,9 @@
       "properties": {
         "ARCTIC": "ARCTIC2",
         "Name": "Shungnak",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Alaska Native Tribal Health Consortium (ANTHC),Shungnak-Ambler (MVDC Project),Village of Shungnak",
+        "Utility": "Alaska Native Tribal Health Consortium (ANTHC),Shungnak-Ambler (MVDC Project),Village of Shungnak"
       }
     },
     {
@@ -148,7 +166,9 @@
       "properties": {
         "ARCTIC": "ARCTIC2",
         "Name": "Tok",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Tok Transportation",
+        "Utility": "NA"
       }
     },
     {
@@ -163,7 +183,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Ambler",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Shungnak-Ambler (MVDC Project)",
+        "Utility": "Shungnak-Ambler (MVDC Project)"
       }
     },
     {
@@ -178,7 +200,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Anchorage",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Alaska Energy Authority (AEA),Alaska Fellows Program (AFP),Alaska Native Tribal Health Consortium (ANTHC),Chugach Electric Association (CEA),UAA Institute for Social and Economic Research (ISER),Launch Alaska,UAA Business Enterprise Institute (BEI),UAA Center for Economic Development (CED),Kartorium / Karta Solutions,Susitna River Coalition,Solarize Anchorage,UAA College of Engineering,Axiom Data Science,Alpine Fit,60 Hertz Energy,UAA Community & Technical College (CTC),Alaska Angel Conference,gBETA,Launch Company,Denali Commission,Deerstone Consulting,BabyVend,Alaska Housing Finance Corporation (AHFC ),Alaska Journal of Commerce,Alaska Department of Conservation (AK DEC),Renewable Energy Alaska Project (REAP),Renewable IPP (RIPP),TechStars Alaska Startup Week,Elevated Oats,Captain Consulting,Alaska Tuft,Turnagain Ceramics,Amferra Alaskan Jewelry,Get-By,K3tog Hand-Dyed Yarns,Dezi's Delight,University of Alaska Anchorage (UAA),Air Hounds,Alaska Village Electric Cooperative (AVEC),Alaska Electric Vehicle Association,Alaska EV Working Group,Alaska Heat Smart,Analysis North,AK Seeds of Change,Anchorage Solid Waste Services,Umoja Co-working",
+        "Utility": "UAA Institute for Social and Economic Research (ISER),Kartorium / Karta Solutions,Launch Alaska,Solarize Anchorage,UAA Business Enterprise Institute (BEI),UAA Center for Economic Development (CED),UAA College of Engineering,University of Alaska Anchorage (UAA)"
       }
     },
     {
@@ -193,7 +217,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Bodega Bay",
-        "State": "California"
+        "State": "California",
+        "Partners": "Alaska Microgrid Group (AMG)",
+        "Utility": "NA"
       }
     },
     {
@@ -208,7 +234,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Chignik Lagoon",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Chignik Lagoon Utility",
+        "Utility": "Chignik Lagoon Utility"
       }
     },
     {
@@ -223,7 +251,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Delta Junction",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Delta Wind Farm",
+        "Utility": "NA"
       }
     },
     {
@@ -238,7 +268,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Dillingham",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "UAF Bristol Bay Campus",
+        "Utility": "NA"
       }
     },
     {
@@ -253,7 +285,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Fairbanks",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "UAF ACEP,UAF Center ICE,UAF Cold Climate Housing Research Center (CCHRC),Fairbanks North Star Borough (FNSB),Golden Valley Energy Authority (GVEA),UAF eCampus,University of Alaska Fairbanks (UAF),Solarize Fairbanks,Fairbanks Memorial Hospital,Alaska Blue Economy Center (ABEC),KUAC Fairbanks,UAF Office of Intellectual Property and Commercialization (OIPC),US Fort Wainwright,Fairbanks Climate Action Coalition,CRREL Permafrost Tunnel,Gaalee'ya Spirit Camp (Howard Luke Fish Camp),Hibernia Heating,UAF Geophysical Institute (GI),Ermine Skate,Tanana Chiefs Conference (TCC),Telesomm,Roaming Root Cellar,UAF International Arctic Research Center (IARC),AK NSF EPSCoR,TechStars Startup Weekend,UAF College of Fisheries and Ocean Sciences (CFOS),UAF Institute of Northern Engineering (INE),UAF Nanook Innovation Corporation,UAF Makerspace,Barati Medical",
+        "Utility": "Solarize Fairbanks,UAF eCampus,University of Alaska Fairbanks (UAF),UAF Center ICE,UAF Office of Intellectual Property and Commercialization (OIPC),UAF ACEP,Fairbanks Memorial Hospital,Fairbanks North Star Borough (FNSB),Golden Valley Energy Authority (GVEA),UAF Cold Climate Housing Research Center (CCHRC),Hibernia Heating"
       }
     },
     {
@@ -268,7 +302,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Gjoa Haven",
-        "State": "Nunavut"
+        "State": "Nunavut",
+        "Partners": "NA",
+        "Utility": "NA"
       }
     },
     {
@@ -283,7 +319,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Homer",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Solarize Homer,Homer Electric Association (HEA)",
+        "Utility": "NA"
       }
     },
     {
@@ -298,7 +336,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Igiugig",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Igiugig Electric Cooperative (IEC)",
+        "Utility": "Igiugig Electric Cooperative (IEC)"
       }
     },
     {
@@ -313,7 +353,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Iliamna",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Iliamna Hybrid Microgrid Power Plant",
+        "Utility": "Iliamna Hybrid Microgrid Power Plant"
       }
     },
     {
@@ -328,7 +370,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Inuvik",
-        "State": "Northwest Territories"
+        "State": "Northwest Territories",
+        "Partners": "Aurora Research Institute",
+        "Utility": "NA"
       }
     },
     {
@@ -343,7 +387,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Juneau",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Spruce Root,Southeast Conference,State of Alaska,UAS Alaska Coastal Rainforest Center",
+        "Utility": "NA"
       }
     },
     {
@@ -358,7 +404,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Kake",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Inside Passage Electric Cooperative (IPEC)",
+        "Utility": "Inside Passage Electric Cooperative (IPEC)"
       }
     },
     {
@@ -373,7 +421,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Kenai",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Solarize Upper Kenai Peninsula",
+        "Utility": "NA"
       }
     },
     {
@@ -388,7 +438,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Kokhanok",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Kokhanok Utilities,Kokhanok Village Council",
+        "Utility": "Kokhanok Utilities,Kokhanok Village Council,Ocean Renewable Power Company (ORPC)"
       }
     },
     {
@@ -403,7 +455,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Kotzebue",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "City of Kotzebue,Kotzebue Energy Authority (KEA),Kotzebue Boys and Girls Club,Kotzebue IRA,Kotzebue Middle and High School (KMHS),Alaska Technical Center (ATC),Arctic Backcountry,Golden Eagle,NANA Regional Corporation,Native Village of Kotzebue,Northwest Arctic Borough (NWAB),Northwest Arctic Borough School District (NWABSD),Star of the Northwest Magnet School,UAF Chukchi Campus,ReadyStar summer program,Kikiktagruk Inupiat Corporation (KIC),Aqqalak Trust,Northwest Arctic Borough (NWAB) Energy Steering Committee,Manilaq",
+        "Utility": "Kotzebue Energy Authority (KEA),Kotzebue Boys and Girls Club,Kotzebue IRA,Kotzebue Middle and High School (KMHS),NANA Regional Corporation"
       }
     },
     {
@@ -418,7 +472,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Manoa",
-        "State": "Hawaii"
+        "State": "Hawaii",
+        "Partners": "University of Hawaii at Manoa (UHM)",
+        "Utility": "NA"
       }
     },
     {
@@ -433,7 +489,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Nome",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Unaatuuq, LLC,Bering Straits Native Corporation (BSNC),Kawerak Inc.",
+        "Utility": "NA"
       }
     },
     {
@@ -448,7 +506,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Nunavut",
-        "State": "Nunavut"
+        "State": "Nunavut",
+        "Partners": "Nunavut Housing Authority",
+        "Utility": "Nunavut Housing Authority"
       }
     },
     {
@@ -463,7 +523,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Perryville",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Perryville Utility",
+        "Utility": "Perryville Utility"
       }
     },
     {
@@ -478,7 +540,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Petersburg",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Petersburg Municipal Power & Light (PMP&L)",
+        "Utility": "Petersburg Municipal Power & Light (PMP&L)"
       }
     },
     {
@@ -493,7 +557,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Pilot Point",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Pilot Point City Council",
+        "Utility": "NA"
       }
     },
     {
@@ -508,7 +574,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Saratoga Springs",
-        "State": "New York"
+        "State": "New York",
+        "Partners": "Telos Energy",
+        "Utility": "NA"
       }
     },
     {
@@ -523,7 +591,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Shungnak",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Alaska Native Tribal Health Consortium (ANTHC),Shungnak-Ambler (MVDC Project),Village of Shungnak",
+        "Utility": "Alaska Native Tribal Health Consortium (ANTHC),Shungnak-Ambler (MVDC Project),Village of Shungnak"
       }
     },
     {
@@ -538,7 +608,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Sitka",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "KCAW Sitka,City and Borough of Sitka,Mount Edgecumbe High School",
+        "Utility": "City and Borough of Sitka"
       }
     },
     {
@@ -553,7 +625,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Soldotna",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Solarize Soldotna,Cook Inletkeeper",
+        "Utility": "NA"
       }
     },
     {
@@ -568,7 +642,9 @@
       "properties": {
         "ARCTIC": "ARCTIC1",
         "Name": "Utqiagvik",
-        "State": "Alaska"
+        "State": "Alaska",
+        "Partners": "Taġiuġmiullu Nunamiullu Housing Authority (TNHA)",
+        "Utility": "Taġiuġmiullu Nunamiullu Housing Authority (TNHA)"
       }
     }
   ]
