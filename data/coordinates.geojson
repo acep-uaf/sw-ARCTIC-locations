@@ -1,0 +1,575 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.89484742,
+          61.21627757
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC2",
+        "Name": "Anchorage",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0481,
+          38.33487
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC2",
+        "Name": "Bodega Bay",
+        "State": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.76017488,
+          60.54406292
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC2",
+        "Name": "Cordova",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.46307877,
+          59.03937443
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC2",
+        "Name": "Dillingham",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.72124822,
+          64.83969225
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC2",
+        "Name": "Fairbanks",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.87712316,
+          64.74265286
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC2",
+        "Name": "Galena",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.59298933,
+          66.89667542
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC2",
+        "Name": "Kotzebue",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.34826008,
+          65.15214834
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC2",
+        "Name": "Minto",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.13819049,
+          66.8880443
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC2",
+        "Name": "Shungnak",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.98776188,
+          63.33589644
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC2",
+        "Name": "Tok",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.85652784,
+          67.08647078
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Ambler",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.89484742,
+          61.21627757
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Anchorage",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0481,
+          38.33487
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Bodega Bay",
+        "State": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.53776105,
+          56.31042481
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Chignik Lagoon",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.73666819,
+          64.04716726
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Delta Junction",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.46307877,
+          59.03937443
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Dillingham",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.72124822,
+          64.83969225
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Fairbanks",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8775,
+          68.62506
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Gjoa Haven",
+        "State": "Nunavut"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.53200662,
+          59.64718757
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Homer",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.90354017,
+          59.32534731
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Igiugig",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.9061,
+          59.7547
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Iliamna",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.7294,
+          68.3594
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Inuvik",
+        "State": "Northwest Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.40663973,
+          58.29983971
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Juneau",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.9447988,
+          56.97444988
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Kake",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.24880589,
+          60.5590139
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Kenai",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.74918539,
+          59.44000574
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Kokhanok",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.59298933,
+          66.89667542
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Kotzebue",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.804,
+          21.31561
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Manoa",
+        "State": "Hawaii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.40855986,
+          64.49808969
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Nome",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.51697,
+          63.74675
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Nunavut",
+        "State": "Nunavut"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.14339251,
+          55.91158561
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Perryville",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.95776302,
+          56.8109592
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Petersburg",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.57733276,
+          57.56429935
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Pilot Point",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.78478,
+          43.08323
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Saratoga Springs",
+        "State": "New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.13819049,
+          66.8880443
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Shungnak",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.33862304,
+          57.04902126
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Sitka",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.06585198,
+          60.49044721
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Soldotna",
+        "State": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.76104378,
+          71.2893974
+        ]
+      },
+      "properties": {
+        "ARCTIC": "ARCTIC1",
+        "Name": "Utqiagvik",
+        "State": "Alaska"
+      }
+    }
+  ]
+}
