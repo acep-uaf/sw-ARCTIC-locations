@@ -1,7 +1,7 @@
 # Stoatworks ARCTIC Program Location Map
 
 ## Welcome
-This repository contains the code and data necessary to build an interactive web map of ARCTIC program locations.
+This repository contains the code and data necessary to build an interactive web map of ARCTIC program locations. The map can be [viewed here](https://acep-uaf.github.io/sw-ARCTIC-locations/)
 
 ## Embed or Link to the Map
 To embed the map in your website, use the following HTML code:
