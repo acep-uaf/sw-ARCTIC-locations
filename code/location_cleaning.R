@@ -21,6 +21,7 @@ library(stringr)
 # read from google sheets
 raw_locations <- read_sheet("https://docs.google.com/spreadsheets/d/1Gaj0-5pk5Q5kBVbD-5Gz2AjE6XbgHS1akB0kegIu3wE")
 
+write_csv(raw_locations, "data/raw_locations.csv")
 
 # find and replace character strings
 locations <- raw_locations %>%
