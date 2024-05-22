@@ -1,5 +1,8 @@
 # /code
 
+## `main.sh`
+This bash script will run both `location_cleaning.r` and `csv_to_geojson.js` sequentially.
+
 ## `location_cleaning.R`
 This script is the bread and butter of this repository. 
 
@@ -66,3 +69,8 @@ Longitude| x
 ## `csv_to_geojson.js`
 This script was written in order to convert `coordinates.csv` from CSV to GeoJSON so that the data could be mapped. All fields from `coordinates.csv` were maintained. `Latitude` and `Longitude` was converted to `features.geometry.coordinates`, while the remaining fields were written under `features.properties`. The output was saved as `data/coordinates.geojson`
 
+<br>
+<br>
+
+## `map.js`
+This script contains Javascript code to build a Mapbox map with satellite imagery. Points were placed on the map to represent ARCTIC locations, and the supporting fields were added to a label that pops when a town name is clicked. 
